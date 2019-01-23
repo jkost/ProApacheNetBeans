@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/ch07/TodoRCP/nbproject/private/
+/ch07/TodoRCP/Model/build/
+/ch07/TodoRCP/build/
+/ch07/TodoRCP/Controller/build/
+/ch07/TodoRCP/View/build/
+/ch07/TodoRCP/Model/nbproject/private/
+genfiles.properties
+**/private/**

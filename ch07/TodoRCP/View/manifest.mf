@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: todo.view
+OpenIDE-Module-Layer: todo/view/layer.xml
+OpenIDE-Module-Localizing-Bundle: todo/view/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
